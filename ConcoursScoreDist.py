@@ -4,7 +4,7 @@
     The result and figure of this code is published in the Critique of bourdieusian
     methodology based on a comparative study of Iran’s konkoor (National university
     entrance exam) (Tahamtan Boroumand - 2019)
-    For more information, see https://github.com/ElnazTaqizadeh/MachineLearning/ConcoursScoreDist.py
+    For more information, see https://github.com/ElnazTaqizadeh/MachineLearning/blob/master/ConcoursScoreDist.py
     To report a bug or issue, create an issue on https://github.com/ElnazTaqizadeh/MachineLearning/issues.
 """
 
